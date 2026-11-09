@@ -1,6 +1,6 @@
 # Stimmen aus der Praxis: Wie Handwerks-, Bau- und GaLaBau-Inhaber ihre Schmerzpunkte selbst beschreiben
 
-Recherchestand: 09.11.2026. Kennzeichnung jeder Stimme: **[W]** = Wortlaut auf Deutsch, so wie er im Suchauszug erschien (nicht am Original gegengeprüft, siehe Gaps). **[P]** = Paraphrase (der Suchauszug gab nur den Sinn wieder, oft auf Englisch; hier sinngemäß ins Deutsche übertragen, KEIN Zitat). **[A]** = Stimme eines Software-Anbieters, Beraters oder Coaches. Sie zeigt typische Wortwahl, ist aber keine Inhaberstimme und hat ein Verkaufsinteresse. Laufende Nummern S01 ff. zählen die einzelnen Stimmen. Insgesamt sind es 70 Stimmen, davon 17 im (Teil-)Wortlaut.
+Recherchestand: 09.11.2026. Kennzeichnung jeder Stimme: **[W]** = Wortlaut auf Deutsch, so wie er im Suchauszug erschien (nicht am Original gegengeprüft, siehe Gaps). **[P]** = Paraphrase (der Suchauszug gab nur den Sinn wieder, oft auf Englisch; hier sinngemäß ins Deutsche übertragen, KEIN Zitat). **[A]** = Stimme eines Software-Anbieters, Beraters oder Coaches. Sie zeigt typische Wortwahl, ist aber keine Inhaberstimme und hat ein Verkaufsinteresse. Laufende Nummern S01 ff. zählen die einzelnen Stimmen. Insgesamt sind es 70 Stimmen (S01–S70), davon 19 im (Teil-)Wortlaut. In diesen 19 sind Titel von Videos und Folgen, redaktionelle Teaser und Journalistentext enthalten. Echte Inhaber- oder Nutzerzitate im Wortlaut sind nur rund 10.
 
 ## 1. Worüber klagen Inhaber in ihren eigenen Worten? (Themencluster, Emotion, Auslöser, Wortwahl)
 
