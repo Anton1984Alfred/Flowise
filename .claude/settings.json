@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Plaud__list_files",
+      "mcp__Plaud__get_file",
+      "mcp__Plaud__get_note",
+      "mcp__Plaud__get_transcript",
+      "mcp__Notion__notion-query-data-sources",
+      "mcp__Notion__notion-create-pages",
+      "mcp__Notion__notion-update-page",
+      "mcp__Notion__notion-create-attachment",
+      "mcp__Notion__notion-fetch"
+    ]
+  }
+}
